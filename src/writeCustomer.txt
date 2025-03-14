@@ -1,0 +1,25 @@
+Customer List
+ID,Name,BDMonth,Email,Password,LoyaltyPoints
+-------------------------------------------------------------
+CUS0,Emma Watson,2,emmaw@gmail.com,emmawonder,75
+CUS1,Olivia Brown,10,oliviaa@gmail.com,oliviatree,0
+CUS2,Ava Chow,1,avachow@gmail.com,avachow01,0
+CUS3,Isabella Zhang,3,isabellaz@hotmail.com,isabellaz123,0
+CUS4,Sophia Johnson,7,sophiay@gmail.com,sophiathanks,0
+CUS5,James Bond,4,jamesbond@gmail.com,bond007,0
+CUS6,Benjamin Lee,5,benj23@gmail.com,benjaminrocks,0
+CUS7,Erica Taylor,8,ericat@yahoo.com,elijah777,104
+CUS8,Daniel Kim,12,danielll@gmail.com,danny8888,0
+CUS9,Matthew King,9,matthewk@gmail.com,mattyking,0
+CUS10,Henry Liu,6,henrylee@hotmail.com,henrypassword,0
+CUS11,Victoria Tan,11,victoriat@gmail.com,vickythebest,0
+CUS12,Chloe Chan,2,chloechan@gmail.com,chloestar,203
+CUS13,Alexander Smith,3,alexman@hotmail.com,alexander007,0
+CUS14,Evelyn Moon,12,evelyn89@gmail.com,evelynmoon,0
+CUS15,Liam Green,10,liamg@gmail.com,liamgiant,0
+CUS16,Zoe Miller,1,zoe1990@gmail.com,zoezoe,0
+CUS17,David Song,6,davidsong@gmail.com,davidcool,0
+CUS18,Hannah White,8,hannahw@gmail.com,hannah123,0
+CUS19,Mia Johnson,7,miamiamiami@hotmail.com,mia8989,0
+CUS20,Anthea Huang,11,anthea.anxin@hotmail.com,anthea1126,570
+CUS21,Kayla,3,Kaylakk@gmail.com,00000000,0

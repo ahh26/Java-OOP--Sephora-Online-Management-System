@@ -1,0 +1,8 @@
+Order List
+ID,TotalAmount,ProductNum,Status(CustomerID,CustomerName)
+-------------------------------------------------------------
+orderid4,203.0,4,Shipped(CUS12,Chloe Chan)
+orderid3,104.0,2,Shipped(CUS7,Erica Taylor)
+orderid2,75.0,2,InProgress(CUS0,Emma Watson)
+orderid1,130.0,3,InProgress(CUS20,Anthea Huang)
+orderid0,440.0,2,Delivered(CUS20,Anthea Huang)

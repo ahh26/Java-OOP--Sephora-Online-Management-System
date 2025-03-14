@@ -1,0 +1,13 @@
+Product List
+ID,Name,Brand,Category,Points,Price,Stock
+-------------------------------------------------------------
+PID0,Lip Butter Balm,Summer Fridays,makeup,32,32.5,50
+PID1,Easy Bale Loose Baking & Setting Power,Huda Beauty,makeup,52,52.0,48
+PID2,Warm Wishes Effortless Cream Bronzer Stick,Rare Beauty,makeup,36,36.0,49
+PID3,Aribrush Flawless Waterproof Setting Spray,Charlotte Tilbury,makeup,51,51.5,49
+PID4,Hyaluronic Acid 2% + B5 Hydrating Serum,The Ordinary,skincare,21,21.5,49
+PID5,Dewy Cleanse + Hydrate Duo,Tatcha,skincare,39,39.0,49
+PID6,Donna Born in Roma Eau de Parfum,Valentino,fragrance,200,200.0,49
+PID7,Black Opium Eau de Parfum,YSL,fragrance,240,240.0,59
+PID8,Airwash Dry Shampoo,K18 Biomimetic Hairscience,hair,65,65.0,46
+PID9,All-coverage concealer,Lancome,makeup,50,50.0,60
